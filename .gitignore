@@ -1,0 +1,12 @@
+.DS_Store
+/frontend/node_modules/
+/frontend/dist
+/frontend/public
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor settings
+.vscode
